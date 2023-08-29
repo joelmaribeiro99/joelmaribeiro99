@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋
 
 nome joelma ribeiro da luz
 estouaprendendo programacao (javascript)🫀
@@ -7,3 +7,5 @@ gosto de estudar
 dormi comer 
 
 ![](https://media.tenor.com/PQhYXs7lLmsAAAAC/switch_dayz-dayz.gif)
+
+
